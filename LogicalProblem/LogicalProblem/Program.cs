@@ -6,7 +6,9 @@ namespace LogicalProblem
     {
         static void Main(string[] args)
         {
-            Fibonacci.fibonaacciseries();
+            //Fibonacci.fibonaacciseries();
+            //PerfectNumber.CheckPerfectNumber();
+            ReverseNumber.RevNo();
         }
     }
 }
