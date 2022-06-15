@@ -20,7 +20,7 @@ namespace LogicalProblem
             max = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("The Perfect number within the given range");
-
+            //while loop also used it
             for (n = min; n < max; n++)
             {
                 i = 1;
